@@ -1,0 +1,12 @@
+div.green{
+    background-color: rgb(58, 216, 58);width: 500px; height: 800px; border: solid;
+}
+div.lg{
+    background-color: rgb(189, 221, 44); width: 450px; height: 30px; border-style: double; align-content: center;
+}
+div.big{
+    background-color: rgb(189, 221, 44); width: 450px; height: 100px; border-style: double; align-content: center;
+}
+button.brown{
+    background-color: rgba(165, 42, 42, 0.452); border: solid;
+}
